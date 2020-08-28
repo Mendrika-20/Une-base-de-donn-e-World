@@ -10,7 +10,7 @@ Cet exo consiste sur la crétion d' une base de données (1er) qui s'appelle "Wo
 
 * World.sql: un fichier avec l'extension ".sql" contenant le script SQL
 
-# Auteur: RAKOTONJANHARY Mamininaina Mendrika
+# Auteur: RAKOTONJANAHARY Mamininaina Mendrika
 
 # Lien github: github.com/Mendrika-20
 
